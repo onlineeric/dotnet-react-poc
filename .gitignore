@@ -1,0 +1,67 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# .NET / C#
+bin/
+obj/
+out/
+artifacts/
+TestResults/
+*.rsuser
+*.nupkg
+*.snupkg
+*.cache
+project.lock.json
+project.fragment.lock.json
+_ReSharper*/
+*.DotSettings.user
+
+# Vite / React / TypeScript
+node_modules/
+dist/
+dist-ssr/
+coverage/
+.vite/
+vite.config.ts.timestamp-*
+*.tsbuildinfo
+
+# Package managers
+.pnpm-store/
+.npm/
+.yarn/
+
+# Testing
+.vitest/
+playwright-report/
+
+# Tool caches
+.cache/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.turbo/
+

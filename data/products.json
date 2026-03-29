@@ -1,0 +1,802 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "name": "Sony WH-1000XM5 Headphones",
+    "description": "Industry-leading noise cancelling wireless headphones with up to 30 hours battery life and crystal clear hands-free calling.",
+    "createDate": "2025-01-08T09:15:00Z",
+    "quantity": 142,
+    "price": 349.99
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+    "name": "Men's Slim Fit Chino Pants",
+    "description": "Classic slim fit chinos crafted from stretch cotton blend, available in multiple neutral tones. Perfect for casual or business casual wear.",
+    "createDate": "2025-01-14T14:20:00Z",
+    "quantity": 310,
+    "price": 49.99
+  },
+  {
+    "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+    "name": "Instant Pot Duo 7-in-1",
+    "description": "7-in-1 multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer. 6 quart capacity.",
+    "createDate": "2025-01-22T11:00:00Z",
+    "quantity": 88,
+    "price": 89.95
+  },
+  {
+    "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+    "name": "Organic Ground Coffee - Dark Roast",
+    "description": "USDA certified organic dark roast ground coffee sourced from small farms in Colombia. Rich, bold flavor with low acidity. 12 oz bag.",
+    "createDate": "2025-02-03T08:45:00Z",
+    "quantity": 450,
+    "price": 14.99
+  },
+  {
+    "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+    "name": "DeWalt 20V MAX Cordless Drill",
+    "description": "Compact and lightweight cordless drill/driver with 2-speed transmission (0-450 / 0-1500 RPM) and 15 clutch settings. Includes two 1.3Ah batteries.",
+    "createDate": "2025-02-11T13:30:00Z",
+    "quantity": 67,
+    "price": 129.00
+  },
+  {
+    "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+    "name": "Women's Merino Wool Turtleneck Sweater",
+    "description": "Luxuriously soft 100% merino wool turtleneck sweater. Naturally temperature-regulating and moisture-wicking. Machine washable.",
+    "createDate": "2025-02-19T16:00:00Z",
+    "quantity": 195,
+    "price": 79.99
+  },
+  {
+    "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
+    "name": "Philips Hue Starter Kit (4 Bulbs)",
+    "description": "Smart LED bulbs with 16 million colors and white ambiance. Works with Alexa, Google Assistant, and Apple HomeKit. Includes bridge.",
+    "createDate": "2025-03-02T10:10:00Z",
+    "quantity": 113,
+    "price": 199.99
+  },
+  {
+    "id": "b8c9d0e1-f2a3-4567-bcde-678901234567",
+    "name": "Extra Virgin Olive Oil - 1L",
+    "description": "Cold-pressed extra virgin olive oil from hand-harvested olives in Tuscany, Italy. Fruity aroma with a peppery finish. Ideal for cooking and dressings.",
+    "createDate": "2025-03-10T09:00:00Z",
+    "quantity": 380,
+    "price": 22.49
+  },
+  {
+    "id": "c9d0e1f2-a3b4-5678-cdef-789012345678",
+    "name": "Patagonia Men's Fleece Jacket",
+    "description": "Lightweight recycled polyester fleece jacket with a full-zip design and kangaroo pocket. Pill-resistant fabric for lasting durability.",
+    "createDate": "2025-03-18T15:45:00Z",
+    "quantity": 230,
+    "price": 119.00
+  },
+  {
+    "id": "d0e1f2a3-b4c5-6789-defa-890123456789",
+    "name": "Cast Iron Skillet 12-inch",
+    "description": "Pre-seasoned 12-inch cast iron skillet for superior heat retention and even cooking. Suitable for stovetop, oven, and campfire use.",
+    "createDate": "2025-03-27T11:20:00Z",
+    "quantity": 156,
+    "price": 39.99
+  },
+  {
+    "id": "e1f2a3b4-c5d6-7890-efab-901234567890",
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "description": "Active noise cancellation, transparency mode, adaptive audio, and personalized spatial audio. USB-C charging case with up to 30 hours total battery.",
+    "createDate": "2025-04-04T08:30:00Z",
+    "quantity": 78,
+    "price": 249.00
+  },
+  {
+    "id": "f2a3b4c5-d6e7-8901-fabc-012345678901",
+    "name": "Stanley Quencher Tumbler 40oz",
+    "description": "Double-wall vacuum insulated tumbler keeps drinks cold 2 days and hot 7 hours. Dishwasher safe with a reusable straw. BPA-free.",
+    "createDate": "2025-04-12T14:00:00Z",
+    "quantity": 342,
+    "price": 45.00
+  },
+  {
+    "id": "a3b4c5d6-e7f8-9012-abcd-123456789012",
+    "name": "Levi's 501 Original Jeans",
+    "description": "The original straight-leg jeans with button fly, five-pocket styling, and a classic fit. Made from 100% cotton denim.",
+    "createDate": "2025-04-21T10:50:00Z",
+    "quantity": 275,
+    "price": 69.50
+  },
+  {
+    "id": "b4c5d6e7-f8a9-0123-bcde-234567890123",
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "description": "Laser dust detection, piezo sensor, and LCD screen showing particle count. Up to 60 minutes of fade-free suction on a single charge.",
+    "createDate": "2025-05-01T09:00:00Z",
+    "quantity": 34,
+    "price": 749.99
+  },
+  {
+    "id": "c5d6e7f8-a9b0-1234-cdef-345678901234",
+    "name": "Himalayan Pink Salt Grinder",
+    "description": "Refillable ceramic grinder filled with coarse Himalayan pink salt. Adjustable grind settings from fine to coarse. Food-grade materials.",
+    "createDate": "2025-05-09T13:15:00Z",
+    "quantity": 422,
+    "price": 8.99
+  },
+  {
+    "id": "d6e7f8a9-b0c1-2345-defa-456789012345",
+    "name": "Bosch Random Orbit Sander",
+    "description": "5-inch random orbit sander with 12,000 OPM for a smooth, swirl-free finish. Dust collection bag included. Ergonomic grip for comfort.",
+    "createDate": "2025-05-17T11:40:00Z",
+    "quantity": 59,
+    "price": 64.99
+  },
+  {
+    "id": "e7f8a9b0-c1d2-3456-efab-567890123456",
+    "name": "Kindle Paperwhite (16 GB)",
+    "description": "Waterproof e-reader with 300 ppi glare-free display, adjustable warm light, and 16 GB storage. Weeks of battery life on a single charge.",
+    "createDate": "2025-05-25T16:30:00Z",
+    "quantity": 99,
+    "price": 159.99
+  },
+  {
+    "id": "f8a9b0c1-d2e3-4567-fabc-678901234567",
+    "name": "Women's Running Shorts",
+    "description": "Lightweight 3-inch running shorts with built-in liner, side pockets, and reflective details. Quick-dry fabric keeps you cool and dry.",
+    "createDate": "2025-06-02T08:00:00Z",
+    "quantity": 303,
+    "price": 34.99
+  },
+  {
+    "id": "a9b0c1d2-e3f4-5678-abcd-789012345678",
+    "name": "Cuisinart 14-Cup Coffee Maker",
+    "description": "Programmable 14-cup coffee maker with 24-hour advance brew, 1–4 cup setting, and adjustable keep-warm temperature.",
+    "createDate": "2025-06-10T12:00:00Z",
+    "quantity": 121,
+    "price": 79.95
+  },
+  {
+    "id": "b0c1d2e3-f4a5-6789-bcde-890123456789",
+    "name": "Organic Chia Seeds 2 lb",
+    "description": "USDA certified organic black chia seeds. High in omega-3 fatty acids, fiber, and protein. Ideal for smoothies, puddings, and baking.",
+    "createDate": "2025-06-18T09:30:00Z",
+    "quantity": 488,
+    "price": 12.99
+  },
+  {
+    "id": "c1d2e3f4-a5b6-7890-cdef-901234567890",
+    "name": "Milwaukee M12 Fuel Screwdriver",
+    "description": "Compact 12V cordless screwdriver with 1,000 in-lbs of torque and 2-speed transmission. Includes M12 battery and rapid charger.",
+    "createDate": "2025-07-01T10:00:00Z",
+    "quantity": 45,
+    "price": 149.00
+  },
+  {
+    "id": "d2e3f4a5-b6c7-8901-defa-012345678901",
+    "name": "Bamboo Cutting Board Set (3-piece)",
+    "description": "Eco-friendly bamboo cutting board set in three sizes. Naturally antimicrobial surface with juice grooves and non-slip feet.",
+    "createDate": "2025-07-09T14:45:00Z",
+    "quantity": 217,
+    "price": 29.99
+  },
+  {
+    "id": "e3f4a5b6-c7d8-9012-efab-123456789012",
+    "name": "Nike Air Max 270 Sneakers",
+    "description": "Lifestyle sneakers with a large Max Air unit in the heel for all-day comfort. Breathable mesh upper with foam midsole cushioning.",
+    "createDate": "2025-07-17T11:15:00Z",
+    "quantity": 188,
+    "price": 150.00
+  },
+  {
+    "id": "f4a5b6c7-d8e9-0123-fabc-234567890123",
+    "name": "KitchenAid Stand Mixer 5-Qt",
+    "description": "Professional 5-quart tilt-head stand mixer with 10-speed slide control and stainless steel bowl. Includes flat beater, dough hook, and wire whip.",
+    "createDate": "2025-07-25T09:00:00Z",
+    "quantity": 52,
+    "price": 449.99
+  },
+  {
+    "id": "a5b6c7d8-e9f0-1234-abcd-345678901234",
+    "name": "Whole Bean Espresso Blend 1 kg",
+    "description": "A bold blend of Brazilian and Ethiopian single-origin beans, roasted to bring out dark chocolate and caramel notes. Perfect for espresso machines.",
+    "createDate": "2025-08-02T07:30:00Z",
+    "quantity": 390,
+    "price": 28.50
+  },
+  {
+    "id": "b6c7d8e9-f0a1-2345-bcde-456789012345",
+    "name": "IKEA KALLAX Shelf Unit",
+    "description": "Versatile 4x2 shelf unit with 8 compartments. Compatible with a range of inserts for customizable storage solutions. Assembly required.",
+    "createDate": "2025-08-10T13:00:00Z",
+    "quantity": 73,
+    "price": 109.99
+  },
+  {
+    "id": "c7d8e9f0-a1b2-3456-cdef-567890123456",
+    "name": "Men's Oxford Button-Down Shirt",
+    "description": "Classic oxford weave button-down shirt in wrinkle-resistant cotton. Tailored fit with spread collar. Available in solid and stripe patterns.",
+    "createDate": "2025-08-18T15:00:00Z",
+    "quantity": 260,
+    "price": 54.99
+  },
+  {
+    "id": "d8e9f0a1-b2c3-4567-defa-678901234567",
+    "name": "GoPro HERO12 Black",
+    "description": "Waterproof action camera with 5.3K60 video, 27MP photos, HyperSmooth 6.0 stabilization, and built-in live streaming. Includes mounting accessories.",
+    "createDate": "2025-08-26T10:30:00Z",
+    "quantity": 61,
+    "price": 399.99
+  },
+  {
+    "id": "e9f0a1b2-c3d4-5678-efab-789012345678",
+    "name": "Lodge Dutch Oven 6 Qt",
+    "description": "Enameled cast iron Dutch oven for braising, slow cooking, and baking. Superior heat distribution and retention. Oven safe to 500°F.",
+    "createDate": "2025-09-03T11:45:00Z",
+    "quantity": 138,
+    "price": 74.90
+  },
+  {
+    "id": "f0a1b2c3-d4e5-6789-fabc-890123456789",
+    "name": "Manuka Honey MGO 514+ (250g)",
+    "description": "Certified New Zealand Manuka honey with a methylglyoxal rating of 514+. Raw, unfiltered, and independently tested for purity and potency.",
+    "createDate": "2025-09-11T08:15:00Z",
+    "quantity": 174,
+    "price": 49.95
+  },
+  {
+    "id": "a1b2c3d4-f5e6-0987-abcd-ef0987654321",
+    "name": "Garmin Forerunner 265 GPS Watch",
+    "description": "Running smartwatch with AMOLED display, advanced training metrics, HRV status, recovery advisor, and up to 15 days battery in smartwatch mode.",
+    "createDate": "2025-09-19T14:00:00Z",
+    "quantity": 47,
+    "price": 449.99
+  },
+  {
+    "id": "b2c3d4e5-a6f7-1098-bcde-f01098765432",
+    "name": "Women's Yoga Leggings High-Waist",
+    "description": "4-way stretch high-waist yoga leggings with side pockets, squat-proof fabric, and moisture-wicking technology. Available in 7 colors.",
+    "createDate": "2025-09-27T09:30:00Z",
+    "quantity": 415,
+    "price": 42.99
+  },
+  {
+    "id": "c3d4e5f6-b7a8-2109-cdef-012109876543",
+    "name": "Black & Decker Electric Hand Mixer",
+    "description": "Lightweight 5-speed hand mixer with QuickBurst button and beaters, dough hooks, and whisk attachments. Easy-eject button for simple cleaning.",
+    "createDate": "2025-10-05T12:30:00Z",
+    "quantity": 166,
+    "price": 29.99
+  },
+  {
+    "id": "d4e5f6a7-c8b9-3210-defa-123210987654",
+    "name": "Raw Almonds 3 lb Bag",
+    "description": "Premium whole raw almonds, non-GMO, and free from additives. High in vitamin E, magnesium, and healthy fats. Ideal for snacking and cooking.",
+    "createDate": "2025-10-13T10:00:00Z",
+    "quantity": 329,
+    "price": 18.99
+  },
+  {
+    "id": "e5f6a7b8-d9c0-4321-efab-234321098765",
+    "name": "Irwin Locking Pliers Set (3-piece)",
+    "description": "3-piece locking pliers set including straight jaw, curved jaw, and long nose pliers. Heat-treated steel construction with lifetime guarantee.",
+    "createDate": "2025-10-21T14:20:00Z",
+    "quantity": 82,
+    "price": 44.97
+  },
+  {
+    "id": "f6a7b8c9-e0d1-5432-fabc-345432109876",
+    "name": "Weighted Blanket 15 lb",
+    "description": "Premium 15-pound weighted blanket with 100% cotton cover and glass bead filling for even weight distribution. Machine washable. 60x80 inches.",
+    "createDate": "2025-10-29T16:45:00Z",
+    "quantity": 107,
+    "price": 69.99
+  },
+  {
+    "id": "a7b8c9d0-f1e2-6543-abcd-456543210987",
+    "name": "Samsung 65\" 4K QLED Smart TV",
+    "description": "65-inch QLED 4K smart TV with Quantum HDR, Motion Xcelerator 120Hz, and built-in Alexa. Slim design with Object Tracking Sound.",
+    "createDate": "2025-11-06T11:00:00Z",
+    "quantity": 23,
+    "price": 999.99
+  },
+  {
+    "id": "b8c9d0e1-a2f3-7654-bcde-567654321098",
+    "name": "Men's Waterproof Hiking Boots",
+    "description": "Durable waterproof hiking boots with GORE-TEX lining, EVA midsole for cushioning, and Vibram outsole for superior traction on all terrain.",
+    "createDate": "2025-11-14T09:15:00Z",
+    "quantity": 143,
+    "price": 179.99
+  },
+  {
+    "id": "c9d0e1f2-b3a4-8765-cdef-678765432109",
+    "name": "Nespresso Vertuo Next Coffee Maker",
+    "description": "Single-serve coffee and espresso maker using centrifusion technology. Compatible with all Vertuo capsules to brew 5 different cup sizes.",
+    "createDate": "2025-11-22T13:00:00Z",
+    "quantity": 96,
+    "price": 159.00
+  },
+  {
+    "id": "d0e1f2a3-c4b5-9876-defa-789876543210",
+    "name": "Coconut Aminos Soy Sauce Alternative",
+    "description": "Certified organic, gluten-free, and non-GMO coconut aminos. A naturally sweet, savory alternative to soy sauce. 16.9 oz bottle.",
+    "createDate": "2025-11-30T08:00:00Z",
+    "quantity": 361,
+    "price": 9.49
+  },
+  {
+    "id": "e1f2a3b4-d5c6-0987-efab-890987654321",
+    "name": "Ryobi 18V ONE+ Circular Saw",
+    "description": "18V cordless circular saw with 6.5-inch carbide-tipped blade, rafter hook, and laser guide. Compatible with all 18V ONE+ batteries.",
+    "createDate": "2025-12-08T10:45:00Z",
+    "quantity": 41,
+    "price": 99.00
+  },
+  {
+    "id": "f2a3b4c5-e6d7-1098-fabc-901098765432",
+    "name": "Tempur-Pedic Travel Neck Pillow",
+    "description": "Ergonomic memory foam travel pillow with removable, machine-washable cover. Provides superior neck and head support during travel.",
+    "createDate": "2025-12-16T15:30:00Z",
+    "quantity": 222,
+    "price": 59.99
+  },
+  {
+    "id": "a3b4c5d6-f7e8-2109-abcd-012109876543",
+    "name": "Women's Quilted Puffer Vest",
+    "description": "Lightweight insulated puffer vest with 100g recycled fill, zip pockets, and an adjustable hem. Packable into its own pocket for easy storage.",
+    "createDate": "2025-12-24T12:00:00Z",
+    "quantity": 194,
+    "price": 64.99
+  },
+  {
+    "id": "b4c5d6e7-a8f9-3210-bcde-123210987654",
+    "name": "Logitech MX Master 3S Mouse",
+    "description": "Advanced wireless mouse with MagSpeed electromagnetic scrolling, 8K DPI sensor, quiet clicks, and customizable buttons. Works on any surface.",
+    "createDate": "2026-01-03T09:00:00Z",
+    "quantity": 115,
+    "price": 99.99
+  },
+  {
+    "id": "c5d6e7f8-b9a0-4321-cdef-234321098765",
+    "name": "Spaghetti - Whole Wheat 500g",
+    "description": "Bronze-die extruded whole wheat spaghetti from durum wheat semolina. High in fiber with a firm texture that holds sauce well. 500g pack.",
+    "createDate": "2026-01-11T11:00:00Z",
+    "quantity": 492,
+    "price": 3.99
+  },
+  {
+    "id": "d6e7f8a9-c0b1-5432-defa-345432109876",
+    "name": "LEGO Technic Bugatti Chiron",
+    "description": "3,599-piece Technic set replicating the Bugatti Chiron supercar with a working W16 engine, gearbox, and rear wing. For ages 16 and up.",
+    "createDate": "2026-01-19T14:30:00Z",
+    "quantity": 28,
+    "price": 349.99
+  },
+  {
+    "id": "e7f8a9b0-d1c2-6543-efab-456543210987",
+    "name": "Men's Compression Running Socks",
+    "description": "Graduated compression socks designed for running and recovery. Moisture-wicking Merino wool blend for blister prevention. 3-pack.",
+    "createDate": "2026-01-27T08:45:00Z",
+    "quantity": 387,
+    "price": 24.99
+  },
+  {
+    "id": "f8a9b0c1-e2d3-7654-fabc-567654321098",
+    "name": "Vitamix E310 Explorian Blender",
+    "description": "Variable-speed blender with 10 settings and a 48-oz low-profile container. Aircraft-grade stainless steel blades for smooth blending every time.",
+    "createDate": "2026-02-04T10:15:00Z",
+    "quantity": 39,
+    "price": 349.95
+  },
+  {
+    "id": "a9b0c1d2-f3e4-8765-abcd-678765432109",
+    "name": "Artisan Sourdough Bread Mix",
+    "description": "Easy-to-use sourdough bread mix with active dried starter included. Just add water and follow the simple steps for bakery-quality bread at home.",
+    "createDate": "2026-02-12T09:30:00Z",
+    "quantity": 276,
+    "price": 7.99
+  },
+  {
+    "id": "b0c1d2e3-a4f5-9876-bcde-789876543210",
+    "name": "Snap-on Combination Wrench Set (10-pc)",
+    "description": "10-piece chrome vanadium combination wrench set in metric sizes 8–19mm. Polished finish with an offset box end for better access in tight spaces.",
+    "createDate": "2026-02-20T13:00:00Z",
+    "quantity": 53,
+    "price": 189.99
+  },
+  {
+    "id": "c1d2e3f4-b5a6-0987-cdef-890987654321",
+    "name": "Moleskine Classic Ruled Notebook",
+    "description": "Classic hardcover notebook with 240 ruled pages, ribbon bookmark, elastic closure, and expandable inner pocket. A5 size.",
+    "createDate": "2026-02-28T11:30:00Z",
+    "quantity": 348,
+    "price": 19.99
+  },
+  {
+    "id": "d2e3f4a5-c6b7-1098-defa-901098765432",
+    "name": "YETI Rambler 20oz Tumbler",
+    "description": "Stainless steel double-wall vacuum insulated tumbler with a MagSlider lid. Keeps drinks cold or hot for hours. Dishwasher safe.",
+    "createDate": "2026-03-08T08:00:00Z",
+    "quantity": 321,
+    "price": 35.00
+  },
+  {
+    "id": "e3f4a5b6-d7c8-2109-efab-012109876543",
+    "name": "Women's Linen Wide-Leg Trousers",
+    "description": "Breathable 100% linen wide-leg trousers with elastic waistband and two side pockets. Relaxed, elegant silhouette ideal for warm weather.",
+    "createDate": "2026-03-16T14:00:00Z",
+    "quantity": 207,
+    "price": 58.00
+  },
+  {
+    "id": "f4a5b6c7-e8d9-3210-fabc-123210987654",
+    "name": "Anker 65W USB-C Charger (3-port)",
+    "description": "Compact 65W GaN charger with 2 USB-C and 1 USB-A port. Charges a MacBook Pro or iPhone at full speed while powering two more devices simultaneously.",
+    "createDate": "2026-03-24T10:30:00Z",
+    "quantity": 264,
+    "price": 45.99
+  },
+  {
+    "id": "a1c3e5a7-b2d4-f6a8-c0e2-a4c6e8b0d2f4",
+    "name": "Adjustable Dumbbell Set 5–52.5 lb",
+    "description": "Space-saving adjustable dumbbells that replace 15 sets of weights. Dial-select system changes weight in 2.5 lb increments. Includes tray.",
+    "createDate": "2025-01-30T10:00:00Z",
+    "quantity": 62,
+    "price": 349.00
+  },
+  {
+    "id": "b2d4f6b8-c3e5-a7c9-d1f3-b5d7f9c1e3a5",
+    "name": "Ceramic Dinner Set (16-piece)",
+    "description": "16-piece porcelain dinner set including dinner plates, salad plates, bowls, and mugs in a timeless matte white finish. Dishwasher and microwave safe.",
+    "createDate": "2025-02-07T13:00:00Z",
+    "quantity": 85,
+    "price": 89.99
+  },
+  {
+    "id": "c3e5a7c9-d4f6-b8d0-e2a4-c6e8a0b2d4f6",
+    "name": "Sparkling Water Maker (SodaStream)",
+    "description": "Make fresh sparkling water in seconds with the SodaStream Art. Includes CO2 cylinder for up to 60L of sparkling water and one reusable bottle.",
+    "createDate": "2025-02-15T09:00:00Z",
+    "quantity": 134,
+    "price": 99.95
+  },
+  {
+    "id": "d4f6b8d0-e5a7-c9e1-f3b5-d7f9b1c3e5a7",
+    "name": "Protein Powder - Whey Isolate Chocolate",
+    "description": "25g of ultra-pure whey protein isolate per serving with less than 1g of fat and sugar. 2 lb container with 30 servings. NSF certified.",
+    "createDate": "2025-03-05T08:00:00Z",
+    "quantity": 411,
+    "price": 54.99
+  },
+  {
+    "id": "e5a7c9e1-f6b8-d0f2-a4c6-e8a0c2d4f6b8",
+    "name": "Fiskars Classic Pruning Shears",
+    "description": "Sharp bypass pruning shears with hardened precision-ground steel blades for clean cuts. Ergonomic handle with non-slip grip. Spring-action mechanism.",
+    "createDate": "2025-04-14T11:00:00Z",
+    "quantity": 199,
+    "price": 17.99
+  },
+  {
+    "id": "f6b8d0f2-a7c9-e1a3-b5d7-f9b1d3e5a7c9",
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "description": "300ml ultrasonic cool-mist diffuser with 7 LED color options and auto shut-off. Whisper-quiet operation. Compatible with all essential oils.",
+    "createDate": "2025-04-22T14:00:00Z",
+    "quantity": 253,
+    "price": 27.99
+  },
+  {
+    "id": "a8c0e2a4-b9d1-f3b5-c7e9-a1c3e5b7d9f1",
+    "name": "Cold Brew Coffee Maker 1L",
+    "description": "Immersion cold brew maker with fine mesh stainless steel filter. Makes smooth, low-acid cold brew in 12–24 hours. 1L borosilicate glass carafe.",
+    "createDate": "2025-05-03T09:30:00Z",
+    "quantity": 177,
+    "price": 34.99
+  },
+  {
+    "id": "b9d1f3b5-c0e2-a4c6-d8f0-b2d4f6c8e0a2",
+    "name": "Men's Quarter-Zip Pullover",
+    "description": "Moisture-wicking quarter-zip pullover in performance polyester. Ideal for layering during outdoor activities. Thumb holes and zippered chest pocket.",
+    "createDate": "2025-05-11T12:30:00Z",
+    "quantity": 289,
+    "price": 44.99
+  },
+  {
+    "id": "c0e2a4c6-d1f3-b5d7-e9a1-c3e5a7d9f1b3",
+    "name": "Beeswax Wraps - Set of 3",
+    "description": "Reusable food wraps made from organic cotton infused with beeswax, jojoba oil, and tree resin. A sustainable alternative to plastic wrap.",
+    "createDate": "2025-05-19T10:00:00Z",
+    "quantity": 466,
+    "price": 18.00
+  },
+  {
+    "id": "d1f3b5d7-e2a4-c6e8-f0b2-d4f6b8e0a2c4",
+    "name": "Sony Alpha A6400 Mirrorless Camera",
+    "description": "24.2 MP APS-C mirrorless camera with real-time eye AF, 4K HDR video, and a 180° flip screen for vlogging. Body only.",
+    "createDate": "2025-06-06T11:00:00Z",
+    "quantity": 29,
+    "price": 849.00
+  },
+  {
+    "id": "e2a4c6e8-f3b5-d7f9-a1c3-e5a7c9f1b3d5",
+    "name": "Resistance Band Set (5 levels)",
+    "description": "Set of 5 latex resistance bands in different resistance levels from extra light to extra heavy. Includes carry bag and exercise guide.",
+    "createDate": "2025-06-14T14:30:00Z",
+    "quantity": 374,
+    "price": 21.99
+  },
+  {
+    "id": "f3b5d7f9-a4c6-e8a0-b2d4-f6b8d0a2c4e6",
+    "name": "Lindt Excellence 90% Dark Chocolate",
+    "description": "Intense dark chocolate bar made with carefully selected cocoa beans for a rich, complex flavor. 90% cocoa, gluten-free. 100g bar.",
+    "createDate": "2025-06-22T08:30:00Z",
+    "quantity": 437,
+    "price": 4.49
+  },
+  {
+    "id": "a5c7e9a1-b6d8-f0b2-c4e6-a8c0e2b4d6f8",
+    "name": "Toilet Paper Holder with Shelf",
+    "description": "Wall-mounted toilet paper holder in brushed nickel with a top shelf for phones or small items. Easy installation with included hardware.",
+    "createDate": "2025-07-03T09:15:00Z",
+    "quantity": 158,
+    "price": 22.99
+  },
+  {
+    "id": "b6d8f0b2-c7e9-a1c3-d5f7-b9d1f3c5e7a9",
+    "name": "Women's Athletic Sports Bra",
+    "description": "Medium-impact wireless sports bra with moisture-wicking fabric, removable cups, and a racerback design. Wide underband for secure fit.",
+    "createDate": "2025-07-11T12:00:00Z",
+    "quantity": 332,
+    "price": 32.99
+  },
+  {
+    "id": "c7e9a1c3-d8f0-b2d4-e6a8-c0e2a4d6f8b0",
+    "name": "Portable Bluetooth Speaker JBL Flip 6",
+    "description": "Waterproof (IP67) portable Bluetooth speaker with 12 hours playtime, powerful bass, and PartyBoost to link multiple speakers.",
+    "createDate": "2025-07-19T15:00:00Z",
+    "quantity": 104,
+    "price": 129.95
+  },
+  {
+    "id": "d8f0b2d4-e9a1-c3e5-f7b9-d1f3b5e7a9c1",
+    "name": "Glass Meal Prep Containers (10-set)",
+    "description": "10-piece borosilicate glass meal prep container set in 3 sizes. Airtight, leak-proof lids. Freezer, microwave, and dishwasher safe.",
+    "createDate": "2025-07-27T10:30:00Z",
+    "quantity": 241,
+    "price": 44.99
+  },
+  {
+    "id": "e9a1c3e5-f0b2-d4f6-a8c0-e2a4c6f8b0d2",
+    "name": "Men's Slim Fit Blazer",
+    "description": "Tailored slim fit blazer in a stretch fabric with notch lapel, two-button closure, and functional pockets. Ideal for smart-casual occasions.",
+    "createDate": "2025-08-04T13:30:00Z",
+    "quantity": 91,
+    "price": 119.99
+  },
+  {
+    "id": "f0b2d4f6-a1c3-e5a7-b9d1-f3b5d7a9c1e3",
+    "name": "Turmeric Latte Blend 200g",
+    "description": "Golden milk mix with organic turmeric, ginger, black pepper, and coconut milk powder. Just add hot water or milk for a warming, anti-inflammatory drink.",
+    "createDate": "2025-08-12T08:00:00Z",
+    "quantity": 403,
+    "price": 16.99
+  },
+  {
+    "id": "a2c4e6a8-b3d5-f7b9-c1e3-a5c7e9b1d3f5",
+    "name": "Pocket Knife - Stainless Steel",
+    "description": "Folding pocket knife with 3.5-inch 440C stainless steel blade, liner lock mechanism, and textured G10 handle. Includes belt clip.",
+    "createDate": "2025-08-20T11:45:00Z",
+    "quantity": 127,
+    "price": 39.99
+  },
+  {
+    "id": "b3d5f7b9-c4e6-a8c0-d2f4-b6d8f0c2e4a6",
+    "name": "Foam Roller High-Density 36-inch",
+    "description": "High-density EVA foam roller for muscle recovery, myofascial release, and stretching. Durable, non-slip surface. Supports up to 300 lbs.",
+    "createDate": "2025-08-28T14:15:00Z",
+    "quantity": 183,
+    "price": 29.99
+  },
+  {
+    "id": "c4e6a8c0-d5f7-b9d1-e3a5-c7e9a1d3f5b7",
+    "name": "Almond Butter - Natural Smooth",
+    "description": "100% pure dry-roasted almond butter with no added sugar, oil, or salt. Creamy smooth texture. 16 oz jar. Non-GMO verified.",
+    "createDate": "2025-09-05T09:00:00Z",
+    "quantity": 355,
+    "price": 13.49
+  },
+  {
+    "id": "d5f7b9d1-e6a8-c0e2-f4b6-d8f0b2e4a6c8",
+    "name": "iPad 10th Generation 64GB Wi-Fi",
+    "description": "10.9-inch Liquid Retina display iPad with A14 Bionic chip, 12MP front camera with Center Stage, and USB-C connectivity. 10 hours battery life.",
+    "createDate": "2025-09-13T10:00:00Z",
+    "quantity": 55,
+    "price": 449.00
+  },
+  {
+    "id": "e6a8c0e2-f7b9-d1f3-a5c7-e9a1c3f5b7d9",
+    "name": "Memory Foam Bath Mat",
+    "description": "Ultra-thick memory foam bath mat with a non-slip backing. Fast-drying, machine-washable microfiber top. 24x36 inches.",
+    "createDate": "2025-09-21T14:00:00Z",
+    "quantity": 247,
+    "price": 27.99
+  },
+  {
+    "id": "f7b9d1f3-a8c0-e2a4-b6d8-f0b2d4a6c8e0",
+    "name": "Men's Thermal Base Layer Set",
+    "description": "Midweight thermal base layer top and bottom set in 200gsm Merino wool. Naturally odor-resistant and moisture-wicking. Seamless underarm panels.",
+    "createDate": "2025-09-29T09:30:00Z",
+    "quantity": 162,
+    "price": 95.00
+  },
+  {
+    "id": "a9c1e3a5-b0d2-f4b6-c8e0-a2c4e6b8d0f2",
+    "name": "Porcelain Pour-Over Coffee Set",
+    "description": "Minimalist pour-over dripper and carafe set in matte white porcelain. Includes reusable stainless mesh filter. Brews 600ml per batch.",
+    "createDate": "2025-10-07T11:00:00Z",
+    "quantity": 139,
+    "price": 48.00
+  },
+  {
+    "id": "b0d2f4b6-c1e3-a5c7-d9f1-b3d5f7c9e1a3",
+    "name": "Dewalt 100-Piece Drill/Driver Bit Set",
+    "description": "100-piece drill and driver bit set in a hard plastic case with bit-tip identification system. Includes twist drills, screwdriver bits, and hole saws.",
+    "createDate": "2025-10-15T13:45:00Z",
+    "quantity": 98,
+    "price": 49.99
+  },
+  {
+    "id": "c1e3a5c7-d2f4-b6d8-e0a2-c4e6a8f0b2d4",
+    "name": "Women's Slip-On Canvas Sneakers",
+    "description": "Classic slip-on canvas sneakers with elastic gusset for easy on/off and a cushioned insole for all-day comfort. Available in 8 colors.",
+    "createDate": "2025-10-23T10:15:00Z",
+    "quantity": 298,
+    "price": 39.99
+  },
+  {
+    "id": "d2f4b6d8-e3a5-c7e9-f1b3-d5f7b9e1a3c5",
+    "name": "Premium Sushi-Grade Nori Sheets (50 ct)",
+    "description": "Premium roasted seaweed nori sheets for sushi and onigiri. 50-count pack of full-size 19x21cm sheets. Crispy texture, rich umami flavor.",
+    "createDate": "2025-11-01T08:30:00Z",
+    "quantity": 316,
+    "price": 11.99
+  },
+  {
+    "id": "e3a5c7e9-f4b6-d8f0-a2c4-e6a8c0f2b4d6",
+    "name": "Robot Vacuum Roomba i3+",
+    "description": "Self-emptying robot vacuum with smart mapping, auto dirt disposal base, and compatibility with Alexa and Google Assistant. 75-min runtime.",
+    "createDate": "2025-11-09T11:00:00Z",
+    "quantity": 37,
+    "price": 549.99
+  },
+  {
+    "id": "f4b6d8f0-a5c7-e9a1-b3d5-f7b9d1a3c5e7",
+    "name": "Stainless Steel Water Bottle 32oz",
+    "description": "Triple-insulated stainless steel water bottle with a leak-proof lid. Keeps drinks cold for 48 hours and hot for 24 hours. BPA-free. 32 oz.",
+    "createDate": "2025-11-17T14:30:00Z",
+    "quantity": 407,
+    "price": 29.95
+  },
+  {
+    "id": "a6c8e0a2-b7d9-f1b3-c5e7-a9c1e3b5d7f9",
+    "name": "Men's Swim Shorts Board Shorts",
+    "description": "Quick-dry board shorts with a 4-way stretch fabric, elastic waistband with drawstring, and two side pockets. UPF 50+ sun protection.",
+    "createDate": "2025-11-25T09:00:00Z",
+    "quantity": 214,
+    "price": 38.99
+  },
+  {
+    "id": "b7d9f1b3-c8e0-a2c4-d6f8-b0d2f4c6e8a0",
+    "name": "Herb Garden Starter Kit",
+    "description": "Indoor herb garden kit with 6 peat pellets, labeled seed packets for basil, parsley, chives, cilantro, and thyme, and a bamboo tray.",
+    "createDate": "2025-12-03T12:00:00Z",
+    "quantity": 172,
+    "price": 19.99
+  },
+  {
+    "id": "c8e0a2c4-d9f1-b3d5-e7a9-c1e3a5d7f9b1",
+    "name": "Philips Sonicare Electric Toothbrush",
+    "description": "Rechargeable sonic electric toothbrush with 3 brushing modes, pressure sensor, 2-minute timer, and two replacement brush heads. USB travel case included.",
+    "createDate": "2025-12-11T10:00:00Z",
+    "quantity": 118,
+    "price": 89.99
+  },
+  {
+    "id": "d9f1b3d5-e0a2-c4e6-f8b0-d2f4b6e8a0c2",
+    "name": "Large Canvas Tote Bag",
+    "description": "Heavy-duty 12 oz natural canvas tote bag with 24-inch handles and an interior zip pocket. Machine washable. Supports up to 40 lbs.",
+    "createDate": "2025-12-19T14:00:00Z",
+    "quantity": 500,
+    "price": 14.99
+  },
+  {
+    "id": "e0a2c4e6-f1b3-d5f7-a9c1-e3a5c7f9b1d3",
+    "name": "Matcha Ceremonial Grade Powder 100g",
+    "description": "First-harvest ceremonial grade matcha from Uji, Japan. Vibrant green color with a smooth, umami-rich flavor profile. 100g resealable tin.",
+    "createDate": "2025-12-27T08:30:00Z",
+    "quantity": 229,
+    "price": 36.00
+  },
+  {
+    "id": "f1b3d5f7-a2c4-e6a8-b0d2-f4b6d8a0c2e4",
+    "name": "Anti-Fatigue Kitchen Mat",
+    "description": "3/4-inch thick memory foam anti-fatigue mat with a non-slip backing. Waterproof, oil-resistant surface. 20x36 inches.",
+    "createDate": "2026-01-07T11:30:00Z",
+    "quantity": 145,
+    "price": 43.99
+  },
+  {
+    "id": "a3b5d7f9-c4e6-a8c0-b2d4-f6a8c0e2b4d6",
+    "name": "Wireless Charging Pad (15W)",
+    "description": "15W Qi-certified wireless charging pad compatible with iPhone, Samsung Galaxy, and all Qi-enabled devices. LED indicator and non-slip surface.",
+    "createDate": "2026-01-15T13:00:00Z",
+    "quantity": 302,
+    "price": 19.99
+  },
+  {
+    "id": "b4d6f8b0-c5e7-b9d1-c3e5-a7c9e1b3d5f7",
+    "name": "Men's Chukka Desert Boots",
+    "description": "Handcrafted suede chukka boots with crepe rubber sole and cotton canvas lining. Classic two-eyelet design. Durable, comfortable everyday footwear.",
+    "createDate": "2026-01-23T09:15:00Z",
+    "quantity": 120,
+    "price": 99.00
+  },
+  {
+    "id": "c5e7a9c1-d6f8-c0e2-d4f6-b8d0f2c4e6a8",
+    "name": "Basmati Rice 10 lb",
+    "description": "Premium aged long-grain white basmati rice from the Himalayan foothills. Fragrant, fluffy, and non-sticky. 10 lb bag.",
+    "createDate": "2026-02-01T10:00:00Z",
+    "quantity": 476,
+    "price": 16.49
+  },
+  {
+    "id": "d6f8b0d2-e7a9-d1f3-e5a7-c9e1a3d5f7b9",
+    "name": "Telescoping Ladder 12.5 ft",
+    "description": "Aluminum telescoping extension ladder extending to 12.5 ft. Compact storage size of 3.2 ft. EN131 certified with a 330 lb duty rating.",
+    "createDate": "2026-02-09T13:30:00Z",
+    "quantity": 44,
+    "price": 159.99
+  },
+  {
+    "id": "e7a9c1e3-f8b0-e2a4-f6b8-d0f2b4e6a8c0",
+    "name": "Women's Cashmere Beanie Hat",
+    "description": "Luxuriously soft 100% pure cashmere beanie in a ribbed knit pattern. One size fits most. Available in 6 classic and neutral colors.",
+    "createDate": "2026-02-17T08:00:00Z",
+    "quantity": 187,
+    "price": 55.00
+  },
+  {
+    "id": "f8b0d2f4-a9c1-f3b5-a7c9-e1a3c5f7b9d1",
+    "name": "Smart Plug with Energy Monitoring",
+    "description": "Wi-Fi smart plug with real-time energy monitoring, scheduling, and remote control via app. Works with Alexa and Google Home. 15A, 2-pack.",
+    "createDate": "2026-02-25T11:00:00Z",
+    "quantity": 278,
+    "price": 24.99
+  },
+  {
+    "id": "a0b2d4f6-c1e3-a5c7-b9d1-f3b5d7a9c1e3",
+    "name": "Spice Rack Organizer Countertop (20-jar)",
+    "description": "Rotating bamboo spice rack with 20 labeled glass spice jars and airtight stainless steel lids. Easy-spin carousel design for organized access.",
+    "createDate": "2026-03-05T14:00:00Z",
+    "quantity": 196,
+    "price": 52.99
+  },
+  {
+    "id": "b1d3f5b7-d2e4-b6d8-c0e2-a4c6e8b0d2f4",
+    "name": "Men's Trail Running Shoes",
+    "description": "Lightweight trail running shoes with a rock plate, Vibram outsole for grip, and a breathable mesh upper. Ideal for technical trails.",
+    "createDate": "2026-03-13T10:45:00Z",
+    "quantity": 153,
+    "price": 139.99
+  },
+  {
+    "id": "c2e4a6c8-e3f5-c7e9-d1f3-b5d7f9c1e3a5",
+    "name": "Acacia Wood Charcuterie Board",
+    "description": "Large acacia wood serving and charcuterie board with juice groove and built-in handles. 18x12 inches. Hand wash recommended.",
+    "createDate": "2026-03-21T12:30:00Z",
+    "quantity": 211,
+    "price": 34.99
+  },
+  {
+    "id": "f7a3b9d1-2c4e-6f80-a1b3-d5e7f9012345",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Waterproof portable speaker with 360-degree sound, 20-hour battery life, and built-in microphone for hands-free calls.",
+    "createDate": "2026-02-14T16:45:00Z",
+    "quantity": 305,
+    "price": 79.99
+  }
+]
