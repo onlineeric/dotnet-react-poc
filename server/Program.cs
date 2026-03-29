@@ -15,7 +15,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-var clientDistPath = Path.Combine(builder.Environment.ContentRootPath, "client", "dist");
+var clientDistPath = Path.Combine(builder.Environment.ContentRootPath, "..", "client", "dist");
 if (!Directory.Exists(clientDistPath))
 {
     Directory.CreateDirectory(clientDistPath);
