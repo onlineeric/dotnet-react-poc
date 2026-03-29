@@ -9,7 +9,8 @@ function ProductList() {
   const { data, isLoading, error, refetch } = useQuery<Product[]>({
     queryKey: ["products"],
     queryFn: fetchProducts,
-    enabled: false,
+    enabled: true,  // automatically refetch when the component mounts, if record edited, the list will be set stale and will be refetched when the user clicks the button
+    staleTime: 5 * 60 * 1000, // cache stays fresh for 5 minutes; navigating back won't refetch unless invalidated by a save
   });
 
   return (

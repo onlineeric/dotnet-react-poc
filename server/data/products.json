@@ -17,11 +17,11 @@
   },
   {
     "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
-    "name": "Instant Pot Duo 7-in-1",
+    "name": "Instant Pot Duo 7-in-1 test",
     "description": "7-in-1 multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, saut\u00E9 pan, yogurt maker, and warmer. 6 quart capacity.",
     "createDate": "2025-01-22T11:00:00Z",
     "quantity": 88,
-    "price": 89.95
+    "price": 89.88
   },
   {
     "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
@@ -49,11 +49,11 @@
   },
   {
     "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
-    "name": "Philips Hue Starter Kit (4 Bulbs)",
+    "name": "Philips Hue Starter Kit (4 Bulbs)z",
     "description": "Smart LED bulbs with 16 million colors and white ambiance. Works with Alexa, Google Assistant, and Apple HomeKit. Includes bridge.",
     "createDate": "2025-03-02T10:10:00Z",
-    "quantity": 113,
-    "price": 199.99
+    "quantity": 118,
+    "price": 199.999
   },
   {
     "id": "b8c9d0e1-f2a3-4567-bcde-678901234567",
