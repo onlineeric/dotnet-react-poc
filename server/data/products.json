@@ -9,16 +9,16 @@
   },
   {
     "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-    "name": "Men's Slim Fit Chino Pants",
+    "name": "Men\u0027s Slim Fit Chino Pants",
     "description": "Classic slim fit chinos crafted from stretch cotton blend, available in multiple neutral tones. Perfect for casual or business casual wear.",
     "createDate": "2025-01-14T14:20:00Z",
-    "quantity": 310,
+    "quantity": 311,
     "price": 49.99
   },
   {
     "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
     "name": "Instant Pot Duo 7-in-1",
-    "description": "7-in-1 multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and warmer. 6 quart capacity.",
+    "description": "7-in-1 multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, saut\u00E9 pan, yogurt maker, and warmer. 6 quart capacity.",
     "createDate": "2025-01-22T11:00:00Z",
     "quantity": 88,
     "price": 89.95
@@ -41,7 +41,7 @@
   },
   {
     "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
-    "name": "Women's Merino Wool Turtleneck Sweater",
+    "name": "Women\u0027s Merino Wool Turtleneck Sweater",
     "description": "Luxuriously soft 100% merino wool turtleneck sweater. Naturally temperature-regulating and moisture-wicking. Machine washable.",
     "createDate": "2025-02-19T16:00:00Z",
     "quantity": 195,
@@ -65,7 +65,7 @@
   },
   {
     "id": "c9d0e1f2-a3b4-5678-cdef-789012345678",
-    "name": "Patagonia Men's Fleece Jacket",
+    "name": "Patagonia Men\u0027s Fleece Jacket",
     "description": "Lightweight recycled polyester fleece jacket with a full-zip design and kangaroo pocket. Pill-resistant fabric for lasting durability.",
     "createDate": "2025-03-18T15:45:00Z",
     "quantity": 230,
@@ -97,7 +97,7 @@
   },
   {
     "id": "a3b4c5d6-e7f8-9012-abcd-123456789012",
-    "name": "Levi's 501 Original Jeans",
+    "name": "Levi\u0027s 501 Original Jeans",
     "description": "The original straight-leg jeans with button fly, five-pocket styling, and a classic fit. Made from 100% cotton denim.",
     "createDate": "2025-04-21T10:50:00Z",
     "quantity": 275,
@@ -137,7 +137,7 @@
   },
   {
     "id": "f8a9b0c1-d2e3-4567-fabc-678901234567",
-    "name": "Women's Running Shorts",
+    "name": "Women\u0027s Running Shorts",
     "description": "Lightweight 3-inch running shorts with built-in liner, side pockets, and reflective details. Quick-dry fabric keeps you cool and dry.",
     "createDate": "2025-06-02T08:00:00Z",
     "quantity": 303,
@@ -146,7 +146,7 @@
   {
     "id": "a9b0c1d2-e3f4-5678-abcd-789012345678",
     "name": "Cuisinart 14-Cup Coffee Maker",
-    "description": "Programmable 14-cup coffee maker with 24-hour advance brew, 1–4 cup setting, and adjustable keep-warm temperature.",
+    "description": "Programmable 14-cup coffee maker with 24-hour advance brew, 1\u20134 cup setting, and adjustable keep-warm temperature.",
     "createDate": "2025-06-10T12:00:00Z",
     "quantity": 121,
     "price": 79.95
@@ -209,7 +209,7 @@
   },
   {
     "id": "c7d8e9f0-a1b2-3456-cdef-567890123456",
-    "name": "Men's Oxford Button-Down Shirt",
+    "name": "Men\u0027s Oxford Button-Down Shirt",
     "description": "Classic oxford weave button-down shirt in wrinkle-resistant cotton. Tailored fit with spread collar. Available in solid and stripe patterns.",
     "createDate": "2025-08-18T15:00:00Z",
     "quantity": 260,
@@ -226,15 +226,15 @@
   {
     "id": "e9f0a1b2-c3d4-5678-efab-789012345678",
     "name": "Lodge Dutch Oven 6 Qt",
-    "description": "Enameled cast iron Dutch oven for braising, slow cooking, and baking. Superior heat distribution and retention. Oven safe to 500°F.",
+    "description": "Enameled cast iron Dutch oven for braising, slow cooking, and baking. Superior heat distribution and retention. Oven safe to 500\u00B0F.",
     "createDate": "2025-09-03T11:45:00Z",
     "quantity": 138,
     "price": 74.90
   },
   {
     "id": "f0a1b2c3-d4e5-6789-fabc-890123456789",
-    "name": "Manuka Honey MGO 514+ (250g)",
-    "description": "Certified New Zealand Manuka honey with a methylglyoxal rating of 514+. Raw, unfiltered, and independently tested for purity and potency.",
+    "name": "Manuka Honey MGO 514\u002B (250g)",
+    "description": "Certified New Zealand Manuka honey with a methylglyoxal rating of 514\u002B. Raw, unfiltered, and independently tested for purity and potency.",
     "createDate": "2025-09-11T08:15:00Z",
     "quantity": 174,
     "price": 49.95
@@ -249,7 +249,7 @@
   },
   {
     "id": "b2c3d4e5-a6f7-1098-bcde-f01098765432",
-    "name": "Women's Yoga Leggings High-Waist",
+    "name": "Women\u0027s Yoga Leggings High-Waist",
     "description": "4-way stretch high-waist yoga leggings with side pockets, squat-proof fabric, and moisture-wicking technology. Available in 7 colors.",
     "createDate": "2025-09-27T09:30:00Z",
     "quantity": 415,
@@ -257,7 +257,7 @@
   },
   {
     "id": "c3d4e5f6-b7a8-2109-cdef-012109876543",
-    "name": "Black & Decker Electric Hand Mixer",
+    "name": "Black \u0026 Decker Electric Hand Mixer",
     "description": "Lightweight 5-speed hand mixer with QuickBurst button and beaters, dough hooks, and whisk attachments. Easy-eject button for simple cleaning.",
     "createDate": "2025-10-05T12:30:00Z",
     "quantity": 166,
@@ -289,7 +289,7 @@
   },
   {
     "id": "a7b8c9d0-f1e2-6543-abcd-456543210987",
-    "name": "Samsung 65\" 4K QLED Smart TV",
+    "name": "Samsung 65\u0022 4K QLED Smart TV",
     "description": "65-inch QLED 4K smart TV with Quantum HDR, Motion Xcelerator 120Hz, and built-in Alexa. Slim design with Object Tracking Sound.",
     "createDate": "2025-11-06T11:00:00Z",
     "quantity": 23,
@@ -297,7 +297,7 @@
   },
   {
     "id": "b8c9d0e1-a2f3-7654-bcde-567654321098",
-    "name": "Men's Waterproof Hiking Boots",
+    "name": "Men\u0027s Waterproof Hiking Boots",
     "description": "Durable waterproof hiking boots with GORE-TEX lining, EVA midsole for cushioning, and Vibram outsole for superior traction on all terrain.",
     "createDate": "2025-11-14T09:15:00Z",
     "quantity": 143,
@@ -321,8 +321,8 @@
   },
   {
     "id": "e1f2a3b4-d5c6-0987-efab-890987654321",
-    "name": "Ryobi 18V ONE+ Circular Saw",
-    "description": "18V cordless circular saw with 6.5-inch carbide-tipped blade, rafter hook, and laser guide. Compatible with all 18V ONE+ batteries.",
+    "name": "Ryobi 18V ONE\u002B Circular Saw",
+    "description": "18V cordless circular saw with 6.5-inch carbide-tipped blade, rafter hook, and laser guide. Compatible with all 18V ONE\u002B batteries.",
     "createDate": "2025-12-08T10:45:00Z",
     "quantity": 41,
     "price": 99.00
@@ -337,7 +337,7 @@
   },
   {
     "id": "a3b4c5d6-f7e8-2109-abcd-012109876543",
-    "name": "Women's Quilted Puffer Vest",
+    "name": "Women\u0027s Quilted Puffer Vest",
     "description": "Lightweight insulated puffer vest with 100g recycled fill, zip pockets, and an adjustable hem. Packable into its own pocket for easy storage.",
     "createDate": "2025-12-24T12:00:00Z",
     "quantity": 194,
@@ -369,7 +369,7 @@
   },
   {
     "id": "e7f8a9b0-d1c2-6543-efab-456543210987",
-    "name": "Men's Compression Running Socks",
+    "name": "Men\u0027s Compression Running Socks",
     "description": "Graduated compression socks designed for running and recovery. Moisture-wicking Merino wool blend for blister prevention. 3-pack.",
     "createDate": "2026-01-27T08:45:00Z",
     "quantity": 387,
@@ -394,7 +394,7 @@
   {
     "id": "b0c1d2e3-a4f5-9876-bcde-789876543210",
     "name": "Snap-on Combination Wrench Set (10-pc)",
-    "description": "10-piece chrome vanadium combination wrench set in metric sizes 8–19mm. Polished finish with an offset box end for better access in tight spaces.",
+    "description": "10-piece chrome vanadium combination wrench set in metric sizes 8\u201319mm. Polished finish with an offset box end for better access in tight spaces.",
     "createDate": "2026-02-20T13:00:00Z",
     "quantity": 53,
     "price": 189.99
@@ -417,7 +417,7 @@
   },
   {
     "id": "e3f4a5b6-d7c8-2109-efab-012109876543",
-    "name": "Women's Linen Wide-Leg Trousers",
+    "name": "Women\u0027s Linen Wide-Leg Trousers",
     "description": "Breathable 100% linen wide-leg trousers with elastic waistband and two side pockets. Relaxed, elegant silhouette ideal for warm weather.",
     "createDate": "2026-03-16T14:00:00Z",
     "quantity": 207,
@@ -433,7 +433,7 @@
   },
   {
     "id": "a1c3e5a7-b2d4-f6a8-c0e2-a4c6e8b0d2f4",
-    "name": "Adjustable Dumbbell Set 5–52.5 lb",
+    "name": "Adjustable Dumbbell Set 5\u201352.5 lb",
     "description": "Space-saving adjustable dumbbells that replace 15 sets of weights. Dial-select system changes weight in 2.5 lb increments. Includes tray.",
     "createDate": "2025-01-30T10:00:00Z",
     "quantity": 62,
@@ -482,14 +482,14 @@
   {
     "id": "a8c0e2a4-b9d1-f3b5-c7e9-a1c3e5b7d9f1",
     "name": "Cold Brew Coffee Maker 1L",
-    "description": "Immersion cold brew maker with fine mesh stainless steel filter. Makes smooth, low-acid cold brew in 12–24 hours. 1L borosilicate glass carafe.",
+    "description": "Immersion cold brew maker with fine mesh stainless steel filter. Makes smooth, low-acid cold brew in 12\u201324 hours. 1L borosilicate glass carafe.",
     "createDate": "2025-05-03T09:30:00Z",
     "quantity": 177,
     "price": 34.99
   },
   {
     "id": "b9d1f3b5-c0e2-a4c6-d8f0-b2d4f6c8e0a2",
-    "name": "Men's Quarter-Zip Pullover",
+    "name": "Men\u0027s Quarter-Zip Pullover",
     "description": "Moisture-wicking quarter-zip pullover in performance polyester. Ideal for layering during outdoor activities. Thumb holes and zippered chest pocket.",
     "createDate": "2025-05-11T12:30:00Z",
     "quantity": 289,
@@ -506,7 +506,7 @@
   {
     "id": "d1f3b5d7-e2a4-c6e8-f0b2-d4f6b8e0a2c4",
     "name": "Sony Alpha A6400 Mirrorless Camera",
-    "description": "24.2 MP APS-C mirrorless camera with real-time eye AF, 4K HDR video, and a 180° flip screen for vlogging. Body only.",
+    "description": "24.2 MP APS-C mirrorless camera with real-time eye AF, 4K HDR video, and a 180\u00B0 flip screen for vlogging. Body only.",
     "createDate": "2025-06-06T11:00:00Z",
     "quantity": 29,
     "price": 849.00
@@ -537,7 +537,7 @@
   },
   {
     "id": "b6d8f0b2-c7e9-a1c3-d5f7-b9d1f3c5e7a9",
-    "name": "Women's Athletic Sports Bra",
+    "name": "Women\u0027s Athletic Sports Bra",
     "description": "Medium-impact wireless sports bra with moisture-wicking fabric, removable cups, and a racerback design. Wide underband for secure fit.",
     "createDate": "2025-07-11T12:00:00Z",
     "quantity": 332,
@@ -561,7 +561,7 @@
   },
   {
     "id": "e9a1c3e5-f0b2-d4f6-a8c0-e2a4c6f8b0d2",
-    "name": "Men's Slim Fit Blazer",
+    "name": "Men\u0027s Slim Fit Blazer",
     "description": "Tailored slim fit blazer in a stretch fabric with notch lapel, two-button closure, and functional pockets. Ideal for smart-casual occasions.",
     "createDate": "2025-08-04T13:30:00Z",
     "quantity": 91,
@@ -617,7 +617,7 @@
   },
   {
     "id": "f7b9d1f3-a8c0-e2a4-b6d8-f0b2d4a6c8e0",
-    "name": "Men's Thermal Base Layer Set",
+    "name": "Men\u0027s Thermal Base Layer Set",
     "description": "Midweight thermal base layer top and bottom set in 200gsm Merino wool. Naturally odor-resistant and moisture-wicking. Seamless underarm panels.",
     "createDate": "2025-09-29T09:30:00Z",
     "quantity": 162,
@@ -641,7 +641,7 @@
   },
   {
     "id": "c1e3a5c7-d2f4-b6d8-e0a2-c4e6a8f0b2d4",
-    "name": "Women's Slip-On Canvas Sneakers",
+    "name": "Women\u0027s Slip-On Canvas Sneakers",
     "description": "Classic slip-on canvas sneakers with elastic gusset for easy on/off and a cushioned insole for all-day comfort. Available in 8 colors.",
     "createDate": "2025-10-23T10:15:00Z",
     "quantity": 298,
@@ -657,7 +657,7 @@
   },
   {
     "id": "e3a5c7e9-f4b6-d8f0-a2c4-e6a8c0f2b4d6",
-    "name": "Robot Vacuum Roomba i3+",
+    "name": "Robot Vacuum Roomba i3\u002B",
     "description": "Self-emptying robot vacuum with smart mapping, auto dirt disposal base, and compatibility with Alexa and Google Assistant. 75-min runtime.",
     "createDate": "2025-11-09T11:00:00Z",
     "quantity": 37,
@@ -673,8 +673,8 @@
   },
   {
     "id": "a6c8e0a2-b7d9-f1b3-c5e7-a9c1e3b5d7f9",
-    "name": "Men's Swim Shorts Board Shorts",
-    "description": "Quick-dry board shorts with a 4-way stretch fabric, elastic waistband with drawstring, and two side pockets. UPF 50+ sun protection.",
+    "name": "Men\u0027s Swim Shorts Board Shorts",
+    "description": "Quick-dry board shorts with a 4-way stretch fabric, elastic waistband with drawstring, and two side pockets. UPF 50\u002B sun protection.",
     "createDate": "2025-11-25T09:00:00Z",
     "quantity": 214,
     "price": 38.99
@@ -729,7 +729,7 @@
   },
   {
     "id": "b4d6f8b0-c5e7-b9d1-c3e5-a7c9e1b3d5f7",
-    "name": "Men's Chukka Desert Boots",
+    "name": "Men\u0027s Chukka Desert Boots",
     "description": "Handcrafted suede chukka boots with crepe rubber sole and cotton canvas lining. Classic two-eyelet design. Durable, comfortable everyday footwear.",
     "createDate": "2026-01-23T09:15:00Z",
     "quantity": 120,
@@ -753,7 +753,7 @@
   },
   {
     "id": "e7a9c1e3-f8b0-e2a4-f6b8-d0f2b4e6a8c0",
-    "name": "Women's Cashmere Beanie Hat",
+    "name": "Women\u0027s Cashmere Beanie Hat",
     "description": "Luxuriously soft 100% pure cashmere beanie in a ribbed knit pattern. One size fits most. Available in 6 classic and neutral colors.",
     "createDate": "2026-02-17T08:00:00Z",
     "quantity": 187,
@@ -777,7 +777,7 @@
   },
   {
     "id": "b1d3f5b7-d2e4-b6d8-c0e2-a4c6e8b0d2f4",
-    "name": "Men's Trail Running Shoes",
+    "name": "Men\u0027s Trail Running Shoes",
     "description": "Lightweight trail running shoes with a rock plate, Vibram outsole for grip, and a breathable mesh upper. Ideal for technical trails.",
     "createDate": "2026-03-13T10:45:00Z",
     "quantity": 153,
