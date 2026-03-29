@@ -1,122 +1,70 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+// useQuery is a TanStack Query hook that manages async data fetching,
+// including loading state, error handling, and caching
+import { useQuery } from "@tanstack/react-query";
+import { fetchProducts, type Product } from "./api/products";
 
 function App() {
-  const [count, setCount] = useState(0)
+  // useQuery returns an object with the fetch state
+  // - data: the fetched data (undefined until loaded)
+  // - isLoading: true while the request is in flight
+  // - error: the error object if the request failed
+  // - refetch: function to manually trigger a re-fetch
+  //
+  // enabled: false means "don't fetch automatically on mount",
+  // so we can trigger it manually with the button via refetch()
+  const { data, isLoading, error, refetch } = useQuery<Product[]>({
+    queryKey: ["products"], // unique cache key for this query
+    queryFn: fetchProducts, // the function that does the actual fetch
+    enabled: false, // don't fetch on page load, wait for button click
+  });
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
+    <div className="min-h-screen bg-gray-100">
+      {/* Header */}
+      <header className="bg-blue-600 p-4 text-white">
+        <h1 className="text-2xl font-bold">Product Store</h1>
+      </header>
+
+      <main className="mx-auto max-w-4xl p-6">
+        {/* Fetch button - calls refetch() to trigger the query */}
         <button
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
+          onClick={() => refetch()}
+          className="rounded bg-blue-600 px-4 py-2 text-white hover:bg-blue-700"
         >
-          Count is {count}
+          Get All Products
         </button>
-      </section>
-      <h1 className="text-3xl font-bold text-blue-600">Hello</h1>
 
-      <div className="ticks"></div>
+        {/* Conditional rendering based on query state */}
+        {isLoading && <p className="mt-4 text-gray-500">Loading...</p>}
+        {error && <p className="mt-4 text-red-500">Error: {error.message}</p>}
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+        {/* Only render the table when data exists */}
+        {data && (
+          <table className="mt-4 w-full border-collapse bg-white shadow">
+            <thead>
+              <tr className="bg-gray-200 text-left">
+                <th className="p-3">Name</th>
+                <th className="p-3">Description</th>
+                <th className="p-3">Price</th>
+                <th className="p-3">Quantity</th>
+              </tr>
+            </thead>
+            <tbody>
+              {/* Map over the products array to render a row for each */}
+              {data.map((product: Product) => (
+                <tr key={product.id} className="border-t">
+                  <td className="p-3">{product.name}</td>
+                  <td className="p-3">{product.description}</td>
+                  <td className="p-3">${product.price.toFixed(2)}</td>
+                  <td className="p-3">{product.quantity}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+      </main>
+    </div>
+  );
 }
 
-export default App
+export default App;
